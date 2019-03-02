@@ -1,0 +1,22 @@
+
+#header {
+padding: 0px;
+margin: 0px;
+color: white;
+font-weight: bold;
+text-align: right;
+height: 150px; 
+width: 100%; 
+background-color: gray;
+font-family: Inconsolata, monospace;
+
+}
+
+#sidebarFeature {
+  padding: 1px;
+  color: gray;
+  text-align: right;
+  height: 300px;
+  width: 300px;
+
+}
